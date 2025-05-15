@@ -30,4 +30,10 @@ Este painel tem como objetivo facilitar a **tomada de decisão operacional** com
 ---
 
 ## 📂 Estrutura do Projeto
-
+painel_central_telefonica/
+├── index.py # Código principal do dashboard
+├── ligacoes_tratadas.csv # Base de dados tratada
+├── requirements.txt # Dependências Python
+├── Dockerfile # Empacotamento do app
+├── assets/
+│ └── bombeiro.png # Logotipo institucional
