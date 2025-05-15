@@ -1,0 +1,32 @@
+body {
+    background-color: #162447 !important;
+}
+
+#main-container, .container, .container-fluid {
+    background-color: #162447 !important;
+}
+
+.card, .dbc-card, .card-body {
+    background-color: #fff !important;
+    color: #162447 !important;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(22,36,71,0.08);
+}
+
+.card-title, .dbc-card-title {
+    color: #c04f03 !important;
+    font-weight: bold;
+}
+
+h2.titulo-topo, h5.titulo-topo {
+    color: #fff !important;
+}
+
+h2, h5, h6 {
+    color: #162447 !important;
+}
+
+.footer {
+    color: #fff !important;
+    background: transparent !important;
+} 
