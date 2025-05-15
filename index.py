@@ -5,6 +5,7 @@ import pandas as pd
 import plotly.express as px
 from datetime import datetime, time
 import re
+import os
 
 # Carregar dados
 CSV_PATH = 'ligacoes_tratadas.csv'
